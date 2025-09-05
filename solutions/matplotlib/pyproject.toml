@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "interference-pattern"
+version = "0.1.0"
+description = "A simple but beautiful matplotlib interference pattern generator."
+dependencies = [
+    "matplotlib",
+    "numpy",
+]
+
+[project.scripts]
+interference-pattern = "interference_pattern.main:main"

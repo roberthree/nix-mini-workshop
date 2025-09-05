@@ -1,0 +1,6 @@
+beautifulsoup
+matplotlib
+numpy
+pygame
+pypi
+scikit

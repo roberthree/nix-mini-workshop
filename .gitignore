@@ -1,0 +1,10 @@
+result
+
+.pre-commit-config.yaml
+workshop-nix.code-workspace
+
+*.html
+*.arrow
+*.jpeg
+*.png
+*.mp4
