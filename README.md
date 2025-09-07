@@ -4,7 +4,7 @@
 
 This project offers developers who are unfamiliar with [Nix](https://nixos.org/) — a package management and system configuration tool — a practical, expert-guided mini-workshop to help them learn how to use it to create reproducible developer environments.
 
-The Nix expert(s) will introduce the concepts using the slides created from [workshop.md](workshop.md).
+The Nix expert(s) will introduce the concepts using the [slides](https://roberthree.github.io/nix-mini-workshop/) created from [workshop.md](workshop.md).
 In parallel, they will demonstrate how to apply these concepts in practice using the resources provided in the slides or in this repository, on a second screen in a terminal.
 During the second half of the workshop, participants will solve simple challenges to gain hands-on experience with Nix.
 
